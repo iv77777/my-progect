@@ -21,9 +21,7 @@ body {
   background-color: #000;
   border-radius: 5px;
 
-  box-shadow: -2px 3px 11px 3px rgba(104,16,16,0.75);
--webkit-box-shadow: -2px 3px 11px 3px rgba(104,16,16,0.75);
--moz-box-shadow: -2px 3px 11px 3px rgba(104,16,16,0.75);
+  border: 2px solid #7a0000;
 }
 
 .item_img {
