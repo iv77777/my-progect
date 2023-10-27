@@ -7,6 +7,12 @@ const items = [
     },
     {
         img:'./img/dana.png',
+        link:"https://iv77777.github.io/testdana/",
+        title:'Тест Сайт для Дани',
+        textBtn:"Переглянути",
+    },
+    {
+        img:'./img/dana.png',
         link:"https://iv77777.github.io/dana/",
         title:'Сайт для Дани',
         textBtn:"Переглянути",
@@ -89,6 +95,7 @@ const items = [
         title:'scrollAll',
         textBtn:"Переглянути",
     },
+    
     // {
     //     img:'',
     //     link:"",

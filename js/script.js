@@ -12,6 +12,4 @@ items.forEach((item) => {
     `;
 
     listHtml.insertAdjacentHTML("beforeend", html);
-    // listHtml.insertAdjacentHTML("afterbegin", html);
-
 });
